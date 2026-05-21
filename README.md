@@ -1,5 +1,4 @@
 # AI_Rule_Based_Chat_Bot
-# Rule-Based AI Chatbot
 
 A simple beginner-friendly AI chatbot developed using Python. This chatbot uses predefined rules and `if-else` decision-making logic to respond to user inputs.
 
